@@ -11,3 +11,4 @@ xIcon.addEventListener("click", function() {
  bottomBar.style.display = "none"
 })
 
+
