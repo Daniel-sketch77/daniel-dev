@@ -207,6 +207,7 @@ box-shadow: 0px 0px 65px 0px rgba(250,247,247,0.91);
  margin:40px 20px;
  border-radius:20px 20px 20px 20px;
  background-color:#03f4fc;
+	 border:2px solid #03f4fc;
  transition:0.2s;	
 
 }
